@@ -1,0 +1,11 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Example Card 2",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "Example.jsx"
+    },
+    "objectTypes": [{ "name": "contacts" }]
+  }
+}

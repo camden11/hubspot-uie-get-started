@@ -1,0 +1,50 @@
+{
+  "entry": "Example.jsx",
+  "modules": {
+    "internal": [
+      {
+        "module": "Example.jsx",
+        "renderedExports": []
+      }
+    ],
+    "external": [
+      {
+        "module": "node_modules/@hubspot/ui-extensions/dist/coreComponents.js",
+        "renderedExports": [
+          "Button",
+          "Divider",
+          "Input",
+          "Link",
+          "Stack",
+          "Text"
+        ]
+      },
+      {
+        "module": "node_modules/@hubspot/ui-extensions/dist/hubspot.js",
+        "renderedExports": [
+          "hubspot"
+        ]
+      },
+      {
+        "module": "node_modules/@hubspot/ui-extensions/dist/types.js",
+        "renderedExports": [
+          "ServerlessExecutionStatus"
+        ]
+      }
+    ]
+  },
+  "package": {
+    "name": "getting-started",
+    "version": "0.1.0",
+    "lockfileVersion": 3,
+    "requires": true,
+    "packages": {
+      "": {
+        "name": "getting-started",
+        "version": "0.1.0",
+        "hasInstallScript": true,
+        "license": "MIT"
+      }
+    }
+  }
+}

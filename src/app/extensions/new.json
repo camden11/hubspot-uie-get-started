@@ -1,0 +1,11 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Useless card",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "new.jsx"
+    },
+    "objectTypes": [{ "name": "contacts" }]
+  }
+}
